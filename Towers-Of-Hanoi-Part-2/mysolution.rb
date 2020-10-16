@@ -11,7 +11,7 @@ def steps(n, base, empty, goal)
   end
 end
 
-hanoi_steps(2)
+hanoi_steps(6)
 # => 1->2
 #    1->3 
 #    2->3
