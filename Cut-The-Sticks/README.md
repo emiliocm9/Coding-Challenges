@@ -76,3 +76,5 @@ _ _ 1 2 1 1 _ _         1               4
 _ _ _ 1 _ _ _ _         1               1
 _ _ _ _ _ _ _ _       DONE            DONE
 ```
+
+[source](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
