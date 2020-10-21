@@ -1,0 +1,2 @@
+# Balanced-Brackets
+If you need a refresher here is a link to the video from previous steps, which presents the solution in a pseudo code: [Stacks (10 min)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ) (starts at 0:56).
