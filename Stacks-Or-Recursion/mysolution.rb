@@ -17,9 +17,7 @@
     arr.each do |element|
       element.delete(0)
       element.delete(nil)
-      if element.empty?
-        arr.delete(element)
-      end
+      arr.delete(element) if element.empty?
     end
     arr.length
   end
