@@ -22,4 +22,4 @@ def binary_tree_height(array_tree)
   array_tree.nil? ? 0 : 1 + [binary_tree_height(tree.left), binary_tree_height(tree.right)].max
 end
 
-puts binary_tree_height([2, 7, 5, 2, 6, 0, 9])
+puts binary_tree_height([5, 3, 2, 9, 0, 0, 7, 0, 0, 0, 0])
